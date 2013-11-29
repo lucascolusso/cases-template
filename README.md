@@ -8,7 +8,7 @@ At first, I took half an hour to thoroughly read the challenge and understand it
 
 With the wireframe, the images and the organized content in hands, coding started. For this project I decided to test an app called Webflow3, that promises to streamline front-end development. This web app allows designers to make production-ready prototypes through an WYSIWYG interface. It uses Bootstrap grid and naming structures, while exporting readable code. I guessed this was the best tool to use as the time available for the challenge was meager. The tool also enables responsive design to be made, but this was intentionally overlooked in order to attend the proposed deadline. The design of the prototype took about 5 hours. Overall, the experiment with Webflow was rewarding.
 
-With the exported code in hands, I uploaded it to a Github repo4 and had to learn how to deploy it through Heroku, which was fairly simple5. Nevertheless, this last stage was time-consuming (XXxxxxXXXX hours), since I’ve never done this kind of thing before. Finally, I tested the URLs in other computers to see if everything was correct.
+With the exported code in hands, I uploaded it to a Github repo4 through the GitHub app for Mac (trial and error until I got it) and had to learn how to deploy it through Heroku5, which required help from some friends and tutorials. Nevertheless, this last stage was time-consuming (4 hours), since I’ve never done this kind of thing before. Finally, I tested the URLs in other computers to see if everything was correct.
 
 
 References
