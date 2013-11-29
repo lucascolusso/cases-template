@@ -23,7 +23,7 @@ http://goo.gl/E4VhA4
 https://webflow.com/
 
 4. Heroku app
-http://cases-template.herokuapp.com/
+cases-template.herokuapp.com/
 
 5. Github repository
 https://github.com/lucascolusso/cases-template.git
