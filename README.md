@@ -14,12 +14,15 @@ With the exported code in hands, I uploaded it to a Github repo4 through the Git
 References
 
 1. Page wireframe
+
 http://goo.gl/SQKG58
 
 2. Organized content structure
+
 http://goo.gl/E4VhA4
 
 3. Webflow
+
 https://webflow.com/
 
 4. Heroku app
@@ -27,9 +30,11 @@ https://webflow.com/
 cases-template.herokuapp.com/
 
 5. Github repository
+
 https://github.com/lucascolusso/cases-template.git
 
 6. PNG shrinker*
+
 https://tinypng.com/
 
 *The images size were shrinked using TinyPNG6 allowing 65% of space to be saved, little less than half a megabyte.
